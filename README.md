@@ -15,14 +15,23 @@ Seaborn Library Link: https://pypi.org/project/seaborn/0.11.0/
 
 # Installation commond: Best for you both commond.
 1: Download get-pip.py script to install pip:
+
 /////// Commond_Console /////////
+
    Link:              curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+   
    Install pip:       python get-pip.py
+   
    Package Install:   python -m pip install <package-name>
+   
                                     OR
+                                    
                       pip install <package-name>
    
 2: Python 3.9 is not even released for 10 days yet. As far as i see a lot of the packages are not supporting Python 3.9 yet. I think your best bet is to uninstall Python      3.9 and install Python 3.8.6. If you want you could try the following just to make sure, but i think i won't work.
+
 /////// Commond_Console /////////
+
      Install pip:          pip intstall pipwin
+     
      Package Install:      pipwin install <package name>
