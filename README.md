@@ -22,7 +22,9 @@ Seaborn Library Link: https://pypi.org/project/seaborn/0.11.0/
    
    Install pip:       python get-pip.py
    
-   Package Install:   python -m pip install <package-name>
+   Package Install:   
+   
+                     python -m pip install <package-name>
    
                                     OR
                                     
